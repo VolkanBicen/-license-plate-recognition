@@ -1,0 +1,185 @@
+D:\Masaustu\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojResolveAssemblyReference.cache
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.Cache
+D:\Masaustu\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+D:\Masaustu\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\sevde\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\sevde\Desktop\Projeler\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+F:\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+F:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+F:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+F:\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+F:\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+F:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojResolveAssemblyReference.cache
+F:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+F:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+F:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.Cache
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Controls.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Fuzzy.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Genetic.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.Formats.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.MachineLearning.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Math.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Neuro.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Lego.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Kinect.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.VFW.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Ximea.xml
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Vision.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Controls.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Fuzzy.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Genetic.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.Formats.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.MachineLearning.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Math.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Neuro.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Lego.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.TeRK.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.FFMPEG.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Kinect.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.VFW.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Ximea.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Vision.xml
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\SevdeAybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Controls.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.DebuggerVisualizers (2010).dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Fuzzy.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Genetic.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.Formats.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.IPPrototyper.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.MachineLearning.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Math.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Neuro.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Lego.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Surveyor.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.TeRK.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.FFMPEG.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Kinect.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.VFW.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Ximea.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Vision.dll
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Controls.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Fuzzy.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Genetic.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.Formats.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.MachineLearning.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Math.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Neuro.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Lego.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Surveyor.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.TeRK.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.FFMPEG.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Kinect.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.VFW.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Ximea.xml
+D:\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Vision.xml
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+D:\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Giris.resources
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Controls.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Fuzzy.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Genetic.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Imaging.Formats.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.MachineLearning.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Math.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Neuro.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Lego.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Robotics.TeRK.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Kinect.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.VFW.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.Ximea.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Vision.xml
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Giris.resources
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\Volkan\Desktop\Yeni klasör (4)\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+C:\Users\sevdeaybüke\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Giris.resources
+C:\Users\Volkan\Desktop\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Giris.resources
